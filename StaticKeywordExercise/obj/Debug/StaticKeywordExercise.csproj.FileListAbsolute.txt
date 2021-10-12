@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\StaticKeywordExercise.exe
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\StaticKeywordExercise.pdb
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.exe
+C:\Users\alexr\Desktop\Repos\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\StaticKeywordExercise.pdb
